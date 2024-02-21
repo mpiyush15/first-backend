@@ -1,0 +1,21 @@
+{
+  "name": "my_backend",
+  "version": "1.0.0",
+  "description": "My first bakcend to work on all project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "  node index.js"
+  },
+  "keywords": [
+    "my",
+    "first",
+    "program"
+  ],
+  "author": "piyush magar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2"
+  }
+}
